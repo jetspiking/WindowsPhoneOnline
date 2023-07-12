@@ -84,7 +84,7 @@
     <h1>Disclaimer</h1>
     <div class="disclaimer-frame">
         <p>Thank you for visiting our website, dedicated to preserving the legacy of Windows Phone devices and ensuring their continued usability. It is important to understand that while we are passionate about this endeavor, we must emphasize that we do not possess any licenses for the material hosted on this platform. Nonetheless, our intentions are purely sympathetic and centered around preserving a piece of internet history.</p>
-        <p><b>Our Goal:</b><br>
+        <p><b>Purpose:</b><br>
         The primary objective of this website is to create a repository for tools, applications, games, audio, and software related to Windows Phone devices. We believe in the significance of maintaining these resources to facilitate accessibility and keep the memories alive for enthusiasts, researchers, and those who appreciate the Windows Phone ecosystem.</p>
         <p><b>Licensing Limitations:</b><br>
         It is crucial to acknowledge that we do not own the rights to the materials made available on this website. As such, we cannot provide any warranties or assurances regarding their legal status, accuracy, functionality, or compatibility with your specific Windows Phone device. We are unable to guarantee the authenticity, completeness, or timeliness of the content provided.</p>
@@ -100,7 +100,9 @@
         <p><b>Non-profit:</b><br>
         Please note that this website is non-profit. There are no advertisements or any form of monetization.</p>
         <p><b>Contributors:</b></br>
-        Is your material listed on this website and would you like your name displayed on this archive page and associated with Windows Phone Online? Please contact our postmaster address and mention the product you developed and your full name.</p>
+        Is your material listed on this website and would you like your name displayed on this archive page and associated with Windows Phone Online? Please contact our postmaster address and mention the product you developed and your full name.</p><br>
+        - <b>Dustin Hendriks</b> (jetspiking) | site maintainer <br>
+        - <br>
     </div>
     ';
 
