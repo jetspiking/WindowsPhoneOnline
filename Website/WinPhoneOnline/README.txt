@@ -1,0 +1,1 @@
+All items in this folder are recursively indexed and displayed on the website, as long as the folder "WinPhoneOnline" is in the same directory as "index.php".
