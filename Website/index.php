@@ -96,13 +96,14 @@
         The presence of any specific tools, applications, games, audio, or software on this website does not constitute an endorsement or recommendation by us. We do not guarantee the performance, security, or suitability of any content for your individual needs or preferences. Users should independently assess the suitability of the materials before utilizing them.</p>
         <p><b>Contact:</b><br>
         If you are a copyright holder or believe that any content on this website infringes upon your rights, please contact us at <a href="mailto:legal@windowsphone.online">legal@windowsphone.online</a>. We will make every effort to promptly address your concerns and resolve any legitimate issues.<br>
-        For non-legal related questions, please email to <a href="mailto:postmaster@windowsphone.online">postmaster@windowsphone.online</a>.</p>
+        For non-legal related questions, please email to <a href="mailto:postmaster@windowsphone.online">postmaster@windowsphone.online</a>. Note that our only official and maintained website is <a href="https://windowsphone.online">https://windowsphone.online</a>.</p>
         <p><b>Non-profit:</b><br>
         Please note that this website is non-profit. There are no advertisements or any form of monetization.</p>
+        <p><b>Terms of use:</b><br>
+        When using this website, you agree you will only download and install applications you obtained a license for in the past.
         <p><b>Contributors:</b></br>
         Is your material listed on this website and would you like your name displayed on this archive page and associated with Windows Phone Online? Please contact our postmaster address and mention the product you developed and your full name.</p><br>
-        - <b>Dustin Hendriks</b> (jetspiking) | site maintainer <br>
-        - <br>
+        - <b>Dustin Hendriks</b> <small>(jetspiking)</small> | site maintainer <br>
     </div>
     ';
 
@@ -220,7 +221,11 @@
     
             echo '<div class="download">';
             echo '<a href="' . $filePath . '">' . $fileIcon . $filePath . '</a><br>';
-            echo '<p>Size: ' . $fileSize . ' bytes<br>';
+            if ($fileSize < (1024*1024)) {
+                echo '<p>Size: ' . round($fileSize / 1024) . ' KB<br>';
+            } else {
+                echo '<p>Size: ' . round($fileSize / 1024 / 1024) . ' MB<br>';
+            }            
             echo 'Date: ' . $fileDate . '</p>';
             echo '</div>';
         }
