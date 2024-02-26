@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Windows Phone Online</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> <!--https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -95,8 +95,9 @@
         <p><b>Non-Endorsement:</b><br>
         The presence of any specific tools, applications, games, audio, or software on this website does not constitute an endorsement or recommendation by us. We do not guarantee the performance, security, or suitability of any content for your individual needs or preferences. Users should independently assess the suitability of the materials before utilizing them.</p>
         <p><b>Contact:</b><br>
-        If you are a copyright holder or believe that any content on this website infringes upon your rights, please contact us at <a href="mailto:legal@windowsphone.online">legal@windowsphone.online</a>. We will make every effort to promptly address your concerns and resolve any legitimate issues.<br>
-        For non-legal related questions, please email to <a href="mailto:postmaster@windowsphone.online">postmaster@windowsphone.online</a>. Note that our only official and maintained website is <a href="https://windowsphone.online">https://windowsphone.online</a>.</p>
+        If you are a copyright holder or believe that any content on this website infringes upon your rights, please contact us at <a href="mailto:legal@windowsphoneonline.com">legal@windowsphoneonline.com</a>. We will make every effort to promptly address your concerns and resolve any legitimate issues.<br>
+        For non-legal related questions, please email to <a href="mailto:postmaster@windowsphoneonline.com">postmaster@windowsphoneonline.com</a>. Note that our only official and maintained website is <a href="https://windowsphoneonline.com">https://windowsphoneonline.com</a>.<br>
+        Please note that this website was migrated to "windowsphoneonline.com" from "windowsphone.online" due to cost related reasons.</p>
         <p><b>Non-profit:</b><br>
         Please note that this website is non-profit. There are no advertisements or any form of monetization.</p>
         <p><b>Terms of use:</b><br>
