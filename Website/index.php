@@ -83,6 +83,7 @@
     echo '
     <h1>Disclaimer</h1>
     <div class="disclaimer-frame">
+        <p><b>Important: windowsphone.online is being migrated to windowsphoneonline.com. Migration will finalize in May and windowsphone.online domain will no longer redirect.</b><br>
         <p>Thank you for visiting our website, dedicated to preserving the legacy of Windows Phone devices and ensuring their continued usability. It is important to understand that while we are passionate about this endeavor, we must emphasize that we do not possess any licenses for the material hosted on this platform. Nonetheless, our intentions are purely sympathetic and centered around preserving a piece of internet history.</p>
         <p><b>Purpose:</b><br>
         The primary objective of this website is to create a repository for tools, applications, games, audio, and software related to Windows Phone devices. We believe in the significance of maintaining these resources to facilitate accessibility and keep the memories alive for enthusiasts, researchers, and those who appreciate the Windows Phone ecosystem.</p>
@@ -96,8 +97,7 @@
         The presence of any specific tools, applications, games, audio, or software on this website does not constitute an endorsement or recommendation by us. We do not guarantee the performance, security, or suitability of any content for your individual needs or preferences. Users should independently assess the suitability of the materials before utilizing them.</p>
         <p><b>Contact:</b><br>
         If you are a copyright holder or believe that any content on this website infringes upon your rights, please contact us at <a href="mailto:legal@windowsphoneonline.com">legal@windowsphoneonline.com</a>. We will make every effort to promptly address your concerns and resolve any legitimate issues.<br>
-        For non-legal related questions, please email to <a href="mailto:postmaster@windowsphoneonline.com">postmaster@windowsphoneonline.com</a>. Note that our only official and maintained website is <a href="https://windowsphoneonline.com">https://windowsphoneonline.com</a>.<br>
-        Please note that this website was migrated to "windowsphoneonline.com" from "windowsphone.online" due to cost related reasons.</p>
+        For non-legal related questions, please email to <a href="mailto:postmaster@windowsphoneonline.com">postmaster@windowsphoneonline.com</a>. Note that our only official and maintained website is <a href="https://windowsphoneonline.com">https://windowsphoneonline.com</a>.<br></p>
         <p><b>Non-profit:</b><br>
         Please note that this website is non-profit. There are no advertisements or any form of monetization.</p>
         <p><b>Terms of use:</b><br>
